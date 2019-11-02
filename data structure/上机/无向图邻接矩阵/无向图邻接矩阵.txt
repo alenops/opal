@@ -1,0 +1,6 @@
+--------------------Configuration: 无向图邻接矩阵 - Win32 Debug--------------------
+Linking...
+LINK : fatal error LNK1168: cannot open Debug/无向图邻接矩阵.exe for writing
+Error executing link.exe.
+
+无向图邻接矩阵.exe - 1 error(s), 0 warning(s)
