@@ -58,5 +58,4 @@ jianshu
 * <https://www.99meijutv.com/vodplay/5477-1-2.html>
 * <http://www.dygang.com/>
 
-ubuntu errors
-* apt error <https://blog.csdn.net/qq_38019633/article/details/84024309>
+
