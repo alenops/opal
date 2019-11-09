@@ -15,6 +15,7 @@
 西电常用
 * 充电费 <https://payment.xidian.edu.cn/NetWorkUI/showPublic>
 * 西电睿思 <http://rs.xidian.edu.cn/>
+* 西电软件 <ms.xidian.edu.cn>
 
 博客  
 * 体验盒子博文 <https://www.uedbox.com/><br>
