@@ -28,12 +28,12 @@ pub fn run(){
 // }
 
 // for range loop
-for x in 0..150{
-    if x%15==0{
+for x in 0..151{
+    if x%25==0{
         println!("fizzbuzz", );
-    }else if x%3==0{
+    }else if x%10==0{
         println!("fizz", );
-    }else if x%5==0{
+    }else if x%3==0{
         println!("buzz", );
     
     }else{ println!("{}",x );}

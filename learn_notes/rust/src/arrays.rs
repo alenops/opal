@@ -1,7 +1,7 @@
 //arrats 数组
 //
 use std::mem;
-pub fn run(){
+pub fn run(){ 
     let mut numbers: [i32;6]=[1,2,3,4,5,6];
     //一个元素占4个字节
 

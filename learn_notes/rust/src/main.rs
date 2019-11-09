@@ -5,8 +5,15 @@
 //mod tuples;
 //mod arrays; 
 //mod vectors;
-mod conditionals;//条件语句
-mod loops;//条件语句
+// mod conditionals;//条件语句
+// mod loops;//条件语句
+// mod funcsions;
+// mod pointer;
+mod structs;
+
+
+
+
 
 fn main() {
    //print::run();
@@ -17,6 +24,13 @@ fn main() {
    //arrays::run();
    //vectors::run();
 //conditionals::run();
-loops::run();
+// loops::run();
+//  funcsions::run();
+//  pointer::run();
+     structs::run();
+
+
+
+
 
 }
